@@ -1,0 +1,17 @@
+h1{
+    color: rgb(5, 5, 5);
+    font-family: serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2{
+
+    color: black;
+    font-family: serif;
+    font-style: italic;
+}
+
+body {
+    background-color: white;
+  }
